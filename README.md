@@ -32,7 +32,7 @@ This tool is not officially affiliated with Coolify. Use at your own risk. Alway
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/coolify-db-restore.git
+git clone https://github.com/dwillitzer/coolify-db-restore.git
 cd coolify-db-restore
 ```
 
@@ -147,9 +147,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - Create an issue in this repository
-- Join the [Coolify Discord](https://discord.coolify.io/) community
+- Join the [Coolify Discord](https://coolify.io/discord/) community
 
 ---
 
-**Note**: This is a community tool. For official Coolify support, please refer to the [official Coolify documentation](https://docs.coolify.io/).
+**Note**: This is a community tool. For official Coolify support, please refer to the [official Coolify documentation](https://coolify.io/docs/).
 ```
